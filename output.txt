@@ -1,0 +1,44 @@
+Cycle Analysis outputs 
+ 
+T01          362.5        K            Diffuser Exhaust Temperature 
+T02          384.10       K            Fan Exhaust Temperature 
+T03          1087.3       K            Compressor Exhaust Temperature 
+T04          1785.9       K            Burner Exhaust Temperature 
+T051         1095.6       K            Turbine Exhaust Temperature 
+T05m         1094.9       K            Turbine Mixer Exhaust Temperature 
+T052         1039.6       K            Fan Turbine Exhaust Temperature 
+T06          1367.9       K            Afterburner Exhaust Temperature 
+Te           775.37       K            Core Nozzle Exhaust Temperature 
+Tef          263.78       K            Fan Nozzle Exhaust Temperature 
+T07          718.11       K            Nozzle Mixer Exhaust Temperature 
+Tec          411.23       K            Combined Nozzle Exhaust Temperature 
+
+P01          32.629       kPa          Diffuser Exhaust Pressure 
+P02          39.154       kPa          Fan Exhaust Pressure 
+P03          1174.6       kPa          Compressor Exhaust Pressure 
+P04          1151.1       kPa          Burner Exhaust Pressure 
+P051         135.38       kPa          Turbine Exhaust Pressure 
+P05m         135.38       kPa          Turbine Mixer Exhaust Pressure 
+P052         107.89       kPa          Fan Turbine Exhaust Pressure 
+P06          104.65       kPa          Afterburner Exhaust Pressure 
+Pe           10           kPa          Core Nozzle Exhaust Pressure 
+Pef          10           kPa          Fan Nozzle Exhaust Pressure 
+P07          91.384       kPa          Nozzle Mixer Exhaust Pressure 
+
+u_inf        476.79       m/s          Freestream Velocity 
+ue           1148.7       m/s          Core Nozzle Exit Velocity 
+uef          493.08       m/s          Fan Nozzle Exit Velocity 
+uec          809.96       m/s          Combined Nozzle Exit Velocity 
+T/mdot_a     0.8683       kN s/k       Specific Thrust 
+TSFC         0.0322       kg/kN        Thrust Specific Fuel Consumption 
+wdot_f       65.474       kJ/kg        Work done on Fan 
+wdot_c       737.29       kJ/kg        Work done on Compressor 
+wdot_t       737.29       kJ/kg        Work done by Turbine 
+wdot_ft      65.474       kJ/kg        Work done by Fan Turbine 
+wdot_p       0.1662       kJ/kg        Work done by Fuel Pump 
+eff_pr       0.6347                    Propulsive Efficiency 
+eff_th       0.5398                    Thermal Efficiency 
+eff_o        0.3426                    Overall Efficiency 
+f_max        0.0220                    Maximum Burner Fuel Ratio 
+fab_max      0.0363                    Maximum Afterburner Fuel Ratio 
+gamma_nm     1.3586                    Gamma Nozzle Mixer 
